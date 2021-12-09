@@ -1,0 +1,41 @@
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.AssemblyReference.cache
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.SuggestedBindingRedirects.cache
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmAdmin.resources
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmBill.resources
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmLogin.resources
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.fQLShopQuanAo.resources
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.GenerateResource.cache
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+C:\Users\TuDuong\OneDrive\Desktop\quan-ly-shop-quan-ao-main\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.AssemblyReference.cache
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.SuggestedBindingRedirects.cache
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmAdmin.resources
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmBill.resources
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmLogin.resources
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.fQLShopQuanAo.resources
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.GenerateResource.cache
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+C:\Users\TuDuong\OneDrive\Desktop\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe.config
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.exe
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\bin\Debug\QuanLyShopQuanAo.pdb
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.AssemblyReference.cache
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmAdmin.resources
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmBill.resources
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.frmLogin.resources
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.fQLShopQuanAo.resources
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.Properties.Resources.resources
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.GenerateResource.cache
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.exe
+C:\Users\maith\Downloads\Code + Database + Hướng dẫn\BaiTapNhomLTCSDL\src\QuanLyShopQuanAo\QuanLyShopQuanAo\obj\Debug\QuanLyShopQuanAo.pdb
